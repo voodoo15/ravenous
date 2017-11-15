@@ -14,7 +14,7 @@ const business = {
 }
 
 class Business extends React.Component {
-  .render() {
+  render() {
     return (
       <div className="Business">
         <div className="image-container">
